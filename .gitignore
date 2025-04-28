@@ -1,0 +1,8 @@
+*.o
+http_server
+obj/
+*.swp
+*.swo
+*~
+.vscode/
+core
